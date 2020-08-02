@@ -1,5 +1,5 @@
 title: Ca'Boom Test Blog
-baseurl: ""
+baseurl: /test-blog
 permalink: '/:title/'
 collections:
   posts:
