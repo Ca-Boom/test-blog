@@ -21,9 +21,9 @@ header:
     - label: Style Guide
       url: /style-guide/
       style: link
-    - label: Contact
-      url: /contact/
-      style: link
+    # - label: Contact
+    #   url: /contact/
+    #   style: link
 footer:
   content: '&copy; All rights reserved.'
   links:
