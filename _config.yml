@@ -70,6 +70,7 @@ sass:
 plugins:
   - jekyll-menus
   - jekyll-paginate
+  - jekyll-paginate-v2
 exclude:
   - Gemfile
   - Gemfile.lock
