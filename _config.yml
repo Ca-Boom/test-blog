@@ -1,5 +1,5 @@
 title: Ca'Boom Test Blog
-baseurl: https://ca-boom.github.io/test-blog/
+baseurl: /
 permalink: '/:title/'
 collections:
   posts:
