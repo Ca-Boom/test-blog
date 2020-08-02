@@ -9,7 +9,7 @@ layout_style: grid
 palette: green
 header:
   title: Ampersand
-  logo_img: images/logo.png
+  logo_img: /images/logo.png
   has_nav: true
   nav_links:
     - label: Home
